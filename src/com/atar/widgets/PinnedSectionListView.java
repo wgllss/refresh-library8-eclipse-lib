@@ -40,7 +40,7 @@ import android.widget.ListView;
 import android.widget.SectionIndexer;
 
 /**
- * ListView, which is capable to pin section views at its top while the rest is still scrolled.
+ * https://github.com/wgllss/refresh-library8.git
  */
 public class PinnedSectionListView extends ListView {
 
